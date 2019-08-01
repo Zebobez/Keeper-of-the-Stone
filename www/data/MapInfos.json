@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Numerville Chapter","order":1,"parentId":0,"scrollX":550.8,"scrollY":375},
+{"id":2,"expanded":true,"name":"Template Map 1","order":3,"parentId":0,"scrollX":1377,"scrollY":937.5},
+{"id":3,"expanded":true,"name":"Forest Town","order":4,"parentId":2,"scrollX":1018,"scrollY":941},
+{"id":4,"expanded":true,"name":"Forest proper template","order":6,"parentId":2,"scrollX":918,"scrollY":625},
+{"id":5,"expanded":false,"name":"Lost Forest","order":7,"parentId":4,"scrollX":1354,"scrollY":913},
+{"id":6,"expanded":false,"name":"Old Forest Road","order":2,"parentId":1,"scrollX":1353,"scrollY":937.5},
+null,
+{"id":8,"expanded":false,"name":"House 1","order":5,"parentId":3,"scrollX":918,"scrollY":625}
+]
